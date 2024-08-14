@@ -11,3 +11,7 @@ basic statistical formulas like:
 6. Correlation
 7. Median
 8. M.A.D.
+
+
+Can't upload the file due to size issue, thus attaching the link to the file for your reference.
+https://docs.google.com/spreadsheets/d/1fkxkKFcZ84vtmfpCXT_Aa8RCwgwylBsg/edit?usp=sharing&ouid=118210718332683326556&rtpof=true&sd=true
